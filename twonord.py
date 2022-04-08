@@ -1,5 +1,6 @@
+from http.client import ImproperConnectionState
 from PIL import Image
-
+from sys import argv
 nord = [(46, 52, 64), (59, 66, 82), (67, 76, 94), (76, 86, 106), (216, 222, 233), (229, 233, 240), (236, 239, 244), (143, 188, 187), (136, 192, 208), (129, 161, 193), (94, 129, 172), (191, 97, 106), (208, 135, 112), (235, 203, 139), (163, 190, 140), (180, 142, 173)]
 
 
@@ -21,11 +22,13 @@ def change_color(img, filename, ext):
 
 
 def main():
-    filename = input('Digite o caminho até a imagem juntamente ao nome da imagem:\n~ ')
-    img = Image.open(filename)
-    filename, ext = filename.split('.')
-    change_color(img, filename, ext)
-
+    if len(argv) > 1:
+        filename = argv[1]
+        img = Image.open(filename)
+        filename, ext = filename.split('.')
+        change_color(img, filename, ext)
+    else:
+        print("Escreva o caminho até a imagem.\nEx.:python twonord.py window.png")
 
 
 if __name__ == "__main__":
