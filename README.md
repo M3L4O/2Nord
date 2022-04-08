@@ -7,7 +7,7 @@
 git clone https://github.com/M3L4O/2Nord.git
 ```
 
-Dentro do diretório terá o requirements.txt, o qual serve para instalar as dependêcia --- de preferência em um ambiente virtual.
+Dentro do diretório terá o requirements.txt, o qual serve para instalar as dependêcia ― de preferência em um ambiente virtual.
 - Para instalá-las é apenas necessário o pip:
 ```
 pip install -r requirements.txt
