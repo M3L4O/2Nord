@@ -19,5 +19,5 @@ Pronto!!!
 Para executar o programa, é necessário indicar o caminho, bem como o nome, do arquivo, mostrado no exemplo abaixo:
 ```
 python twonord.py <caminho até o arquivo + nome do arquivo>
-python twonord.py window.png
+python twonord.py Imagens/window.png
 ```
