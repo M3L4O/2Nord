@@ -21,3 +21,28 @@ Para executar o programa, é necessário indicar o caminho, bem como o nome, do 
 python twonord.py <caminho até o arquivo + nome do arquivo>
 python twonord.py Imagens/window.png
 ```
+Se quiser utilizar a sua própria paleta de cores, é necessário informar o arquivo onde essa paleta se encontra:
+```
+python twonord.py Imagens/window.jpg <nome do arquivo onde se encontra a paleta>
+```
+
+Um exemplo de paleta que o programa consegue utilizar:
+gruvbox.txt
+```
+46 131 116
+251 73 52
+184 187 38
+250 189 47
+131 165 152
+211 134 155
+142 192 124
+254 128 25
+35 219 178
+51 241 199
+251 241 199
+235 219 178
+213 196 161
+189 174 147
+168 153 132
+```
+
