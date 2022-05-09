@@ -1,4 +1,4 @@
-# Image to Nord
+# Image to your Palette
 ## Instalação:
 > Obs.: Programa feito e testado utilizando Arch Linux em conjunto com python3.10
 
