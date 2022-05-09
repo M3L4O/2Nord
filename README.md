@@ -4,7 +4,8 @@
 
 - Para baixar o programa, pode-se utilizar o Git:
 ```
-git clone https://github.com/M3L4O/2Nord.git
+https://github.com/M3L4O/2YourPalette.git
+
 ```
 
 Dentro do diretório terá o requirements.txt, o qual serve para instalar as dependêcia ― de preferência em um ambiente virtual.
