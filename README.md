@@ -46,5 +46,7 @@ gruvbox.txt
 168 153 132
 ```
 ## Demonstração:
+Imagem Original: ![Alena Aenami](https://twitter.com/Aenami_Art)
 ![Original](images/window.jpg)
+Imagem modificada pelo programa:
 ![Costumizada](images/window-nord.jpg)
