@@ -3,9 +3,11 @@
 from PIL import Image
 from sys import argv
 
+
 #Paleta do tema NORD.
 palette = [(46, 52, 64), (59, 66, 82), (67, 76, 94), (76, 86, 106), (216, 222, 233), (229, 233, 240), (236, 239, 244), (143, 188, 187), (136, 192, 208), (129, 161, 193), (94, 129, 172), (191, 97, 106), (208, 135, 112), (235, 203, 139), (163, 190, 140), (180, 142, 173), (59, 66, 82)]
 
+#Dionário que armazena os pixels já alterados.
 dict_colors = {}
 
 def get_palette(palette_name):

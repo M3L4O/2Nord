@@ -18,8 +18,8 @@ Pronto!!!
 ## Execução:
 Para executar o programa, é necessário indicar o caminho, bem como o nome, do arquivo, mostrado no exemplo abaixo:
 ```
-python twonord.py <caminho até o arquivo + nome do arquivo>
-python twonord.py Imagens/window.png
+python toYourPalette.py <caminho até o arquivo + nome do arquivo>
+python toYourPalette.py Imagens/window.png
 ```
 Se quiser utilizar a sua própria paleta de cores, é necessário informar o arquivo onde essa paleta se encontra:
 ```
@@ -45,4 +45,6 @@ gruvbox.txt
 189 174 147
 168 153 132
 ```
-
+## Demonstração:
+![Original](images/window.jpg)
+![Costumizada](images/window-nord.jpg)
