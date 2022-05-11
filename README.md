@@ -19,11 +19,11 @@ Pronto!!!
 Para executar o programa, é necessário indicar o caminho, bem como o nome, do arquivo, mostrado no exemplo abaixo:
 ```
 python toYourPalette.py <caminho até o arquivo + nome do arquivo>
-python toYourPalette.py Imagens/window.png
+python toYourPalette.py images/window.jpg
 ```
 Se quiser utilizar a sua própria paleta de cores, é necessário informar o arquivo onde essa paleta se encontra:
 ```
-python twonord.py Imagens/window.jpg <nome do arquivo onde se encontra a paleta>
+python twonord.py images/window.jpg <nome do arquivo onde se encontra a paleta>
 ```
 
 Um exemplo de paleta que o programa consegue utilizar:
