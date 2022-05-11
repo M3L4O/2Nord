@@ -50,6 +50,6 @@ gruvbox.txt
 ### Imagem Original: ![Alena Aenami](https://twitter.com/Aenami_Art)
 <kbd><img src="images/window.jpg" alt="Imagem Original" style="border-radius:20%"></kbd>
 
-### Imagem modificada pelo programa:
+### Imagem modificada pelo programa utilizando a paleta !(Nord)[https://www.nordtheme.com/#palettes-modularity]:
 <kbd><img src="images/window-nord.jpg" alt="Imagem Original" style="border-radius:20%"></kbd>
 
