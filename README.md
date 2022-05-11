@@ -46,8 +46,10 @@ gruvbox.txt
 168 153 132
 ```
 ## Demonstração:
-Imagem Original: ![Alena Aenami](https://twitter.com/Aenami_Art)
+
+### Imagem Original: ![Alena Aenami](https://twitter.com/Aenami_Art)
 <kbd><img src="images/window.jpg" alt="Imagem Original" style="border-radius:20%"></kbd>
-Imagem modificada pelo programa:
+
+### Imagem modificada pelo programa:
 <kbd><img src="images/window-nord.jpg" alt="Imagem Original" style="border-radius:20%"></kbd>
 
