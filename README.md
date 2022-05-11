@@ -47,6 +47,6 @@ gruvbox.txt
 ```
 ## Demonstração:
 Imagem Original: ![Alena Aenami](https://twitter.com/Aenami_Art)
-![Original](images/window.jpg)
+<img src="images/window.jpg" alt="Imagem Original" border-radius="20%">
 Imagem modificada pelo programa:
 ![Costumizada](images/window-nord.jpg)
