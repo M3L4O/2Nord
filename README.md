@@ -47,7 +47,7 @@ gruvbox.txt
 ```
 ## Demonstração:
 Imagem Original: ![Alena Aenami](https://twitter.com/Aenami_Art)
-<img src="images/window.jpg" alt="Imagem Original" style="border-radius:20%">
+<kbd><img src="images/window.jpg" alt="Imagem Original" style="border-radius:20%"></kbd>
 Imagem modificada pelo programa:
-<img src="images/window-nord.jpg" alt="Imagem Original" style="border-radius:20%">
+<kbd><img src="images/window-nord.jpg" alt="Imagem Original" style="border-radius:20%"></kbd>
 
