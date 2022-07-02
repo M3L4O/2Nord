@@ -49,8 +49,8 @@ catppuccin
 ## Demonstração:
 
 ### Imagem Original: ![Alena Aenami](https://twitter.com/Aenami_Art)
-<kbd><img src="images/window.jpg" alt="Imagem Original" style="border-radius:20%"></kbd>
+<kbd><img src="images/aenami_moon.png" alt="Imagem Original" style="border-radius:20%"></kbd>
 
-### Imagem modificada pelo programa utilizando a paleta ![Nord](https://www.nordtheme.com/#palettes-modularity):
-<kbd><img src="images/window-nord.jpg" alt="Imagem Original" style="border-radius:20%"></kbd>
+### Imagem modificada pelo programa utilizando a paleta ![Catppuccin](https://github.com/catppuccin/catppuccin):
+<kbd><img src="images/aenami_moon-catppuccin.png" alt="Imagem Original" style="border-radius:20%"></kbd>
 
