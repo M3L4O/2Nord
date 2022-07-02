@@ -1,5 +1,3 @@
-#!/home/melao/Codes/2Nord/venv/bin/python3.10
-
 from PIL import Image
 from sys import argv
 
