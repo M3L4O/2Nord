@@ -16,34 +16,35 @@ pip install -r requirements.txt
 Pronto!!!
 
 ## Execução:
-Para executar o programa, é necessário indicar o caminho, bem como o nome, do arquivo, mostrado no exemplo abaixo:
+Para executar o programa, é necessário indicar o caminho, bem como o nome, do arquivo, juntamente à paleta desejada,como mostrado no exemplo abaixo:
 ```
-python toYourPalette.py <caminho até o arquivo + nome do arquivo>
-python toYourPalette.py images/window.jpg
-```
-Se quiser utilizar a sua própria paleta de cores, é necessário informar o arquivo onde essa paleta se encontra:
-```
-python twonord.py images/window.jpg <nome do arquivo onde se encontra a paleta>
+python main.py <caminho até o arquivo + nome do arquivo> <nome do arquivo contendo a paleta>
+python main.py images/window.jpg catppuccin
 ```
 
 Um exemplo de paleta que o programa consegue utilizar:
-gruvbox.txt
+catppuccin
 ```
-46 131 116
-251 73 52
-184 187 38
-250 189 47
-131 165 152
-211 134 155
-142 192 124
-254 128 25
-35 219 178
-51 241 199
-251 241 199
-235 219 178
-213 196 161
-189 174 147
-168 153 132
+245 224 220
+242 205 205
+221 182 242
+245 194 231
+232 162 175
+242 143 173
+248 189 150
+250 227 176
+171 233 179
+181 232 224
+150 205 251
+137 220 235
+201 203 255
+30 30 46
+48 45 65
+87 82 104
+110 108 126
+152 139 162
+195 186 198
+217 224 238
 ```
 ## Demonstração:
 
